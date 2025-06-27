@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+*.db
+.env
+system_health.db
+config.ini
